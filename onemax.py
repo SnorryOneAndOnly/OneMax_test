@@ -103,13 +103,13 @@ def main():
 
 
         # Genetic Algorithm is done - plot statistics:
-        sns.set_style("whitegrid")
-        plt.plot(maxFitnessValues, color='red')
-        plt.plot(meanFitnessValues, color='green')
-        plt.xlabel('Generation')
-        plt.ylabel('Max / Average Fitness')
-        plt.title('Max and Average Fitness over Generations')
-        plt.show()
+        # sns.set_style("whitegrid")
+        # plt.plot(maxFitnessValues, color='red')
+        # plt.plot(meanFitnessValues, color='green')
+        # plt.xlabel('Generation')
+        # plt.ylabel('Max / Average Fitness')
+        # plt.title('Max and Average Fitness over Generations')
+        # plt.show()
 
 
 # главный вызов
